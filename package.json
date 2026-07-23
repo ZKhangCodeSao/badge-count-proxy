@@ -1,0 +1,15 @@
+{
+  "name": "badge-count-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server to count Roblox account badges for a game",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
